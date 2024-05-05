@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Induced Seismicity: Relationships between Earthquake Frequency and Magnitude in the Oklahoma Arbuckle Group"
+excerpt: "I made an in-depth research inquiry on how to mitigate human-made earthquakes from leftover saltwater injection from oil wells in Oklahoma. I spent 6 months going through Excel spreadsheets full of data from oil and gas companies and the Oklahoma Commission Corporation (OCC) to manipulate the data and graph each of the variables against each other. I made line graphs, scatter plots, bar graphs, maps, and 3D models to compare my variables. Through this project, I gained valuable insight into computer, graphing, and analytical skills. I presented this project at the International Science and Engineering Fair in May of 2019 and was fortunate enough to receive 4th place for my project."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
