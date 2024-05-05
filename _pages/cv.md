@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+==
 * Ph.D. in Atmospheric Sciences, University of Washington, 2028 (expected)
 * B.S. in Engineering Physics, University of Colorado Boulder, 2013
 
