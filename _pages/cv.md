@@ -16,18 +16,18 @@ Education
 
 Experience
 ======
-* Atmospheric Sciences Ph.D. Student | University of Washington | Seattle, WA | Sep 2023 - Present
- _Advisor: Professor Qiang Fu_
+Atmospheric Sciences Ph.D. Student | University of Washington | Seattle, WA | Sep 2023 - Present
+_Advisor: Professor Qiang Fu_
  * Using convolutional neural networks (CNNs) to partition the seasonal contribution of the inherent variability of the climate system to the accelerated rate of warming seen in the Arctic over the past several decades (known as Arctic Amplification) to locate biases between climate models and observations
  * Will investigate future projections of sea ice concentrations constrained by internal variability
 
-* Glacial Isostacy Physics Research Assistant | Universtiy of Colorado Boulder | Boulder, CO | Jul 2022 – May 2023
-  _Advisors: Professor Shijie Zhong, Professor Micheal Ritzwoller_
+Glacial Isostacy Physics Research Assistant | Universtiy of Colorado Boulder | Boulder, CO | Jul 2022 – May 2023
+_Advisors: Professor Shijie Zhong, Professor Micheal Ritzwoller_
   * Evaluated mantle viscosity misfits between ice model outputs based on ice load distributions
   * Conducted in-depth comparison of ICE6-G and ANU ice history models based on near-field and far-field viscosity and relative sea level misfits
 
-* Glaciology and Hydrology Research Student | School for International Training | Reykjavík, Iceland | Jun – Jul 2022
-  _Advisor: Professor Sonya Ahamed_
+Glaciology and Hydrology Research Student | School for International Training | Reykjavík, Iceland | Jun – Jul 2022
+_Advisor: Professor Sonya Ahamed_
   * Spent six weeks traveling around Iceland, learning about renewable energy, economics, and technology.
   * Researched the glaciology of the Vatnajökull ice cap in Iceland and how climate change will affect the local watershed.
  
