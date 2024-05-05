@@ -22,8 +22,6 @@ _Advisor: Professor Qiang Fu_
  * Using convolutional neural networks (CNNs) to partition the seasonal contribution of the inherent variability of the climate system to the accelerated rate of warming seen in the Arctic over the past several decades (known as Arctic Amplification) to locate biases between climate models and observations
  * Will investigate future projections of sea ice concentrations constrained by internal variability
 
-
-
 Glacial Isostacy Physics Research Assistant | Universtiy of Colorado Boulder | Boulder, CO | Jul 2022 – May 2023
 
 _Advisors: Professor Shijie Zhong, Professor Micheal Ritzwoller_
