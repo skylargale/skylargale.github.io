@@ -1,12 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Coronal Heating as Determined by the Solar Flare Frequency Distribution Obtained by Aggregating Case Studies"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/coronal-heating-as-determined-by-the-solar-flare-frequency-distribution-obtained-by-aggregating-case-studies
+excerpt: 'Flare frequency distributions represent a key approach to addressing one of the largest problems in solar and stellar physics: determining the mechanism that counterintuitively heats coronae to temperatures that are orders of magnitude hotter than the corresponding photospheres. It is widely accepted that the magnetic field is responsible for the heating, but there are two competing mechanisms that could explain it: nanoflares or Alfvén waves. To date, neither can be directly observed. Nanoflares are, by definition, extremely small, but their aggregate energy release could represent a substantial heating mechanism, presuming they are sufficiently abundant. One way to test this presumption is via the flare frequency distribution, which describes how often flares of various energies occur. If the slope of the power law fitting the flare frequency distribution is above a critical threshold, α = 2 as established in prior literature, then there should be a sufficient abundance of nanoflares to explain coronal heating. We performed >600 case studies of solar flares, made possible by an unprecedented number of data analysts via three semesters of an undergraduate physics laboratory course. This allowed us to include two crucial, but nontrivial, analysis methods: preflare baseline subtraction and computation of the flare energy, which requires determining flare start and stop times. We aggregated the results of these analyses into a statistical study to determine that α = 1.63 ± 0.03. This is below the critical threshold, suggesting that Alfvén waves are an important driver of coronal heating.'
+date: May 2023
+venue: 'The Astrophysical Journal'
+paperurl: 'http://skylargale.github.io/files/paper1.pdf'
+citation: 'James Paul Mason et al 2023 ApJ 948 71'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
