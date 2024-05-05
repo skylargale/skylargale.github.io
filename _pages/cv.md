@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Atmospheric Sciences, University of Washington, 2028 (expected)
+* B.S. in Engineering Physics, University of Colorado Boulder, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sept 2023- Present: Ph.D. Student
+  * University of Washington
+  * Superviser: Qiang Fu
+  * My research uses machine learning to quantify internal variability and predict sea ice concentration due to accelerated polar warming, known as Arctic Amplification (AA). Many climate models are unable to emulate the same rate of warming that is observed in the poles, so my research goal is to unveil the contribution to AA from the inherent variability of the climate system for each season. Following this work, I will investigate future projections of sea ice concentrations constrained by internal variability. 
 
 * Fall 2015: Research Assistant
   * Github University
