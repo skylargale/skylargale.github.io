@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 Ph.D. in Atmospheric Sciences, University of Washington, 2028 (expected)
+
 B.S. in Engineering Physics, Double Minor in Applied Math and Atmospheric and Oceanic Sciences, University of Colorado Boulder, 2023
 
 Experience
