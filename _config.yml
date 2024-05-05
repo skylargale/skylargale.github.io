@@ -29,15 +29,6 @@ author:
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
- 
-
-  # Academic websites
-  arxiv            : # URL
-  googlescholar    : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-4503-6237"
-  pubmed           : # URL
-  researchgate     : # "https://www.researchgate.net/profile/Skylar-Gale"
 
   # Repositories and software development
   bitbucket        : # Username
@@ -73,6 +64,13 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
+  # Academic websites
+  arxiv            : # URL
+  googlescholar    : # URL
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0003-4503-6237"
+  pubmed           : # URL
+  researchgate     : # "https://www.researchgate.net/profile/Skylar-Gale"
 
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
