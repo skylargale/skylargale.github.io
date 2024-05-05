@@ -16,18 +16,57 @@ Education
 
 Experience
 ======
-Sept 2023 - Present: Atmospheric Sciences Ph.D. Student | University of Washington
-My research uses machine learning to quantify internal variability and predict sea ice concentration due to accelerated polar warming, known as Arctic Amplification (AA). Many climate models are unable to emulate the same rate of warming that is observed in the poles, so my research goal is to unveil the contribution to AA from the inherent variability of the climate system for each season. Following this work, I will investigate future projections of sea ice concentrations constrained by internal variability. I am advisd by Professor Qiang Fu.
+* Atmospheric Sciences Ph.D. Student | University of Washington | Seattle, WA | Sep 2023 - Present
+  Advisor: Professor Qiang Fu
+ * Using convolutional neural networks (CNNs) to partition the seasonal contribution of the inherent variability of the climate system to the accelerated rate of warming seen in the Arctic over the past several decades (known as Arctic Amplification) to locate biases between climate models and observations
+ * Will investigate future projections of sea ice concentrations constrained by internal variability
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Glacial Isostacy Physics Research Assistant | Universtiy of Colorado Boulder | Boulder, CO | Jul 2022 – May 2023
+  * Advisors: Professor Shijie Zhong, Professor Micheal Ritzwoller
+  * Evaluated mantle viscosity misfits between ice model outputs based on ice load distributions
+  * Conducted in-depth comparison of ICE6-G and ANU ice history models based on near-field and far-field viscosity and relative sea level misfits
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Glaciology and Hydrology Research Student | School for International Training | Reykjavík, Iceland | Jun – Jul 2022
+  * Advisor: Professor Sonya Ahamed
+  * Spent six weeks traveling around Iceland, learning about renewable energy, economics, and technology.
+  * Researched the glaciology of the Vatnajökull ice cap in Iceland and how climate change will affect the local watershed.
+ 
+* Biocomputing Research Assistant | University of Colorado Boulder| Boulder, CO | Aug 2021 - May 2022
+ * Advisor: Professor Orit Peleg
+ * Developed multiple specific functions in MATLAB to analyze bee swarm characteristics to understand bee self-assembly and mechanics.
+ * Analyzed and interpreted trends of bee swarms to validate previous data and conclude new findings about self-assembly methods.
+
+* Planetary Science Instrumentation Research Science Intern | Lockheed Martin | Palo Alto, CA | May 2021 - Aug 2021
+ * Advisor: Maté Adámkovics, Ph.D.
+ * Wrote Python code for data manipulation of GeoCARB satellite science instrument to be used at NASA.
+ * Developed solutions and implementation plan to improve the engineering drawing release process as part of the Intern Case Study Program.
+
+* Astrophysics Mission Research Assistant | Lockheed Martin | Boulder, CO | Aug 2020 - Feb 2021
+ * Advisor: Professor John Bally
+ * Designed an orbit for NASA science mission proposal surveying Paschen-alpha emission in the galactic plane over summer.
+ * Focused on assisting science cases at CU Boulder for NASA proposal.
+
+* Student Technical Writer | National Snow and Ice Data Center (NSIDC) | Boulder, CO | Aug 2020 - Jan 2021
+ * Supervisor: Candida Dewes
+ * Migrated metadata documents from HTML to PDF for a more effortless user experience.
+ * Directed RAMP satellite web page migration project.
+ * Led and notated weekly department meetings.
+
+* Electrical Systems and Integration/Test Engineer Intern | Lockheed Martin | Littleton, CO | May 2020 - Jul 2020
+ * Supervisor: Reinhold Huber
+ * Updated two test procedures and edited 10+ test scripts for electrical satellite testing in various environments.
+ * Participated in onsite testing and electrical equipment checkouts.
+ * Validated scripts for 134 separate data flow and signal tests.
+
+* Atmospheric Science Research Assistant | National Oceanic and Atmospheric Administration (NOAA) | Boulder, CO | Aug 2019 - Dec 2019
+ * Supervisor: Issac Vimont, Ph.D.
+ * Focused on electrical engineering aspects of collecting a continuous gas sample with updated technology.
+ * Worked with affiliated scientists to better understand the science behind the design and the intended goal of the AirCore gas sampling project.
+
+* Systems Engineering Intern | Lockheed Martin | Littleton, CO | Jun 2019 - Aug 2019
+ * Supervisor: Anthony Sandora
+ * Worked daily in a high-bay to get hands-on mechanical and electrical experience with satellites.
+ * Developed a new way to document needed testing data for the Geostationary Operational Environmental Satellite (GOES) series program.
   
 Skills
 ======
