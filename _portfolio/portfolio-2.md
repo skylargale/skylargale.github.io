@@ -1,1 +1,6 @@
-<br/><img src='/images/500x300.png'>
+---
+title: "Investigating ANU and ICE-6G Ice Model Relative Sea Level Misfits to Determine Viscosity Constraints since the Last Glacial Maximum"
+excerpt: "Glacial isostatic adjustment (GIA) incorporates glacial rebound and gravitational potential to calculate sea level rise. However, many ice models struggle to accurately represent these effects in relative sea level (RSL) predictions. Two widely used ice models that incorporate GIA effects, ANU (Lambeck et al., 2014, 2017) and ICE-6G (Peltier et al., 2015), require further analysis to gauge their validity. I compared the model predictions of RSL of the ANU and ICE- 6G models against six distinct RSL field datasets using a semi-analytic GIA model. To predict RSL, a GIA model requires an ice model and models of the Earth’s mantle viscosity, density, and elastic structure. While mantle density and elastic structures are reliably constructed from seismology studies, mantle viscosity is not well constrained. I developed 864 simulated mantle viscosity models to run with the ANU and ICE-6G ice models to obtain the predicted RSL data. I analyzed the Root Mean Square (RMS) misfits of the simulated test RSL outputs against the observed RSL field data. I showed that RMS demonstrates error quality of field data is critically important to the GIA modeling process. I also showed the strengths and weaknesses of each ice model through further RMS analysis."
+collection: portfolio
+---
+
