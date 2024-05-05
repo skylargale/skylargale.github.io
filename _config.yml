@@ -24,11 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Skylar Gale"
   pronouns         : # "she/her"  
-  bio              : "I am pursuing my Ph.D. in Atmospheric Sciences at the University of Washington, working with Professor Qiang Fu. My research uses machine learning to quantify internal variability and predict sea ice concentration due to accelerated polar warming. I am interested in research/data science careers in atmospheric-ice interactions, climate modeling, and ice sheet dynamics."
+  bio              : "I am pursuing my Ph.D. in Atmospheric Sciences at the University of Washington, advised by Professor Qiang Fu. My research uses machine learning to quantify internal variability and predict sea ice concentration due to accelerated polar warming. I am interested in research and data science careers in atmospheric-ice interactions, climate modeling, and ice sheet dynamics."
+  email            : "skylarcgale@gmail.com"
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
-  email            : "skylarcgale@gmail.com" 
+ 
 
   # Academic websites
   arxiv            : # URL
@@ -36,13 +37,13 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4503-6237"
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Skylar-Gale"
+  researchgate     : # "https://www.researchgate.net/profile/Skylar-Gale"
 
   # Repositories and software development
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "skylargale"
+  github           : # "skylargale"
   kaggle           : # Username  
   stackoverflow    : # Username
 
