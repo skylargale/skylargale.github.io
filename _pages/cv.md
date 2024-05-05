@@ -12,14 +12,13 @@ redirect_from:
 Education
 ======
 Ph.D. in Atmospheric Sciences, University of Washington, 2028 (expected)
-
 B.S. in Engineering Physics, Double Minor in Applied Math and Atmospheric and Oceanic Sciences, University of Colorado Boulder, 2023
 
 Experience
 ======
 **Atmospheric Sciences Ph.D. Student**, University of Washington, Seattle, WA 
 
-Sep 2023 - Present _Advisor: Professor Qiang Fu_
+Sep 2023 - Present // _Advisor: Professor Qiang Fu_
 
 * #### Using convolutional neural networks (CNNs) to partition the seasonal contribution of the inherent variability of the climate system to the accelerated rate of warming seen in the Arctic over the past several decades (known as Arctic Amplification) to locate biases between climate models and observations.
 * #### Will investigate future projections of sea ice concentrations constrained by internal variability.
