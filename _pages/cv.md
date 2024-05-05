@@ -86,12 +86,6 @@ Skills
 * Technical: CREO, Solidworks (Certified), OnShape, STK
 * Developer Tools: Jupyter Notebooks, Git, Google Cloud Platform
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service and Leadership
 ======
 * Co-Chair of WelCOM Committee for Atmospheric Science Graduate Visit Day
