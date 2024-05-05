@@ -82,9 +82,9 @@ Jun 2019 - Aug 2019 // _Supervisor: Anthony Sandora_
   
 Skills
 ======
-####   Languages: Python, Java, Fortran, MATLAB, C++, R, Arduino, Mathematica, Julia
-####   Technical: CREO, Solidworks (Certified), OnShape, STK
-####   Developer Tools: Jupyter Notebooks, Git, Google Cloud Platform
+* Languages: Python, Java, Fortran, MATLAB, C++, R, Arduino, Mathematica, Julia
+* Technical: CREO, Solidworks (Certified), OnShape, STK
+* Developer Tools: Jupyter Notebooks, Git, Google Cloud Platform
 
 Publications
 ======
@@ -94,6 +94,6 @@ Publications
 
 Service and Leadership
 ======
-####   Co-Chair of WelCOM Committee for Atmospheric Science Graduate Visit Day
-####   Student Advisory Committee Atmospheric Science Graduates Representative
-####   Relations Committee for the Graduate Climate Conference (GCC)
+* Co-Chair of WelCOM Committee for Atmospheric Science Graduate Visit Day
+* Student Advisory Committee Atmospheric Science Graduates Representative
+* Relations Committee for the Graduate Climate Conference (GCC)
