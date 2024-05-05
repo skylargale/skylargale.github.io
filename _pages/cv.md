@@ -84,12 +84,6 @@ Skills
 ####   Languages: Python, Java, Fortran, MATLAB, C++, R, Arduino, Mathematica, Julia
 ####   Technical: CREO, Solidworks (Certified), OnShape, STK
 ####   Developer Tools: Jupyter Notebooks, Git, Google Cloud Platform
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and Leadership
 ======
