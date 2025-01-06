@@ -11,18 +11,17 @@ redirect_from:
 
 Education
 ======
-Ph.D. in Atmospheric Sciences, University of Washington, 2028 (expected)
+Ph.D. in Atmospheric Science and Climate Science, University of Washington, 2028 (expected)
 
 B.S. in Engineering Physics, Double Minor in Applied Math and Atmospheric and Oceanic Sciences, University of Colorado Boulder, 2023
 
 Experience
 ======
-**Atmospheric Sciences Ph.D. Student**, University of Washington, Seattle, WA 
+**Atmospheric and Climate Science Ph.D. Student**, University of Washington, Seattle, WA 
 
 Sep 2023 - Present // _Advisor: Professor Qiang Fu_
 
 * Using convolutional neural networks (CNNs) to partition the seasonal contribution of the inherent variability of the climate system to the accelerated rate of warming seen in the Arctic over the past several decades (known as Arctic Amplification) to locate biases between climate models and observations.
-* Will investigate future projections of sea ice concentrations constrained by internal variability.
 
 **Glacial Isostacy Physics Research Assistant**, Universtiy of Colorado Boulder, Boulder, CO
 
@@ -79,15 +78,18 @@ Aug 2019 - Dec 2019 // _Supervisor: Issac Vimont, Ph.D._
 Jun 2019 - Aug 2019 // _Supervisor: Anthony Sandora_
 * Worked daily in a high-bay to get hands-on mechanical and electrical experience with satellites.
 * Developed a new way to document needed testing data for the Geostationary Operational Environmental Satellite (GOES) series program.
-  
+
+Service and Leadership
+======
+* Co-Chair of WelCOM Committee for Atmospheric and Climate Science Graduate Visit Day
+* Representative for Atmospheric and Climate Science Graduate School for College of the Environment's Student Advisory Committee
+* Co-Planner for Atmospheric and Climate Science Graduate Student Distringushed Visiting Lecture
+* Co-Chair of Relations Committee for the Graduate Climate Conference (GCC) 2024
+* Co-Chair of Outreach Committee to organize field trips for K-12 visits
+* Co-Chair of Atmospheric and Climate Science Department Teaching Award Committee
+
 Skills
 ======
 * Languages: Python, Java, Fortran, MATLAB, C++, R, Arduino, Mathematica, Julia
 * Technical: CREO, Solidworks (Certified), OnShape, STK
 * Developer Tools: Jupyter Notebooks, Git, Google Cloud Platform
-
-Service and Leadership
-======
-* Co-Chair of WelCOM Committee for Atmospheric Science Graduate Visit Day
-* Student Advisory Committee Atmospheric Science Graduates Representative
-* Relations Committee for the Graduate Climate Conference (GCC)
