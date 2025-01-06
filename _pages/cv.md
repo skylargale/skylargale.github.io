@@ -83,7 +83,7 @@ Service and Leadership
 ======
 * Co-Chair of WelCOM Committee for Atmospheric and Climate Science Graduate Visit Day
 * Representative for Atmospheric and Climate Science Graduate School for College of the Environment's Student Advisory Committee
-* Co-Planner for Atmospheric and Climate Science Graduate Student Distringushed Visiting Lecture
+* Co-Planner for Atmospheric and Climate Science Graduate Student Distinguished Visiting Lecture
 * Co-Chair of Relations Committee for the Graduate Climate Conference (GCC) 2024
 * Co-Chair of Outreach Committee to organize field trips for K-12 visits
 * Co-Chair of Atmospheric and Climate Science Department Teaching Award Committee
