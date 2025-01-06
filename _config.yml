@@ -23,54 +23,22 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Skylar Gale"
-  pronouns         : # "she/her"  
-  bio              : "I am pursuing my Ph.D. in Atmospheric Sciences at the University of Washington, advised by Professor Qiang Fu. My research uses machine learning to quantify internal variability and predict sea ice concentration due to accelerated polar warming. I am interested in research and data science careers in atmospheric-ice interactions, climate modeling, and ice sheet dynamics."
+  pronouns         : "she/her"  
+  bio              : "I am pursuing a Ph.D. in Atmospheric and Climate Science at the University of Washington, working with Professor Qiang Fu. My research uses machine learning to quantify the seasonal role of internal variability in accelerated Arctic warming, known broadly as Arctic Amplification. I am interested in research/data science careers in atmospheric-ice-snow interactions, climate modeling, and wildfires."
   email            : "skylarcgale@gmail.com"
   location         : "Seattle, WA"
   employer         : "University of Washington"
-  uri              : # URL
 
   # Repositories and software development
-  bitbucket        : # Username
-  codepen          : # Username
-  dribbble         : # Username
   github           : # "skylargale"
-  kaggle           : # Username  
-  stackoverflow    : # Username
 
   # Social media
-  bluesky          : # Username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : skylargale
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
 
   # Academic websites
-  arxiv            : # URL
-  googlescholar    : # URL
-  impactstory      : # URL
+  # arxiv            : # URL
+  # googlescholar    : # URL
   orcid            : "https://orcid.org/0000-0003-4503-6237"
-  pubmed           : # URL
-  researchgate     : # "https://www.researchgate.net/profile/Skylar-Gale"
 
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
