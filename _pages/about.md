@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[Github] (https://github.com/skylargale)
+[Github] (/https://github.com/skylargale)
 
 I graduated in May 2023 with a Bachelor of Science in Engineering Physics and a double minor in Applied Mathematics and Atmospheric and Oceanic Sciences from the University of Colorado Boulder, Summa Cum Laude. I successfully defended my Honors Thesis on simulated relative sea level misfits in paleo-ice models against observations and the evaluation of glacial isostasy-constrained mantle viscosity profiles under Professor Shijie Zhong. During the summer of 2022, I completed a study abroad research program in Iceland. I researched glaciological impacts due to climate change and the corresponding effects on Iceland's hydrological system, focusing on the Vatnajökull ice cap. 
 
