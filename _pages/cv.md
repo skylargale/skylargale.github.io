@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,85 +11,86 @@ redirect_from:
 
 Education
 ======
-Ph.D. in Atmospheric and Climate Science, University of Washington, 2028 (expected)
+Atmospheric and Climate Science PhD, University of Washington, expected Spring 2029
 
-B.S. in Engineering Physics, Double Minor in Applied Math and Atmospheric and Oceanic Sciences, University of Colorado Boulder, 2023
+BS in Engineering Physics, Double Minor in Applied Math and Atmospheric and Oceanic Sciences, University of Colorado Boulder, May 2023
 
 Experience
 ======
-**Atmospheric and Climate Science Ph.D. Student**, University of Washington, Seattle, WA 
+**Atmospheric and Climate Science PhD Student**, University of Washington, Seattle, WA 
 
-Sep 2023 - Present // _Advisor: Professor Qiang Fu_
+Sep 2023 - Present | _Advisor: Professor Qiang Fu_
 
-* Using convolutional neural networks (CNNs) to quantify the role of internal variability in accelerated Arcti warming (Arctic Amplification) in the spring over the satellite period to locate biases between climate models and observations.
+* Using convolutional neural networks (CNNs) to quantify the role of internal variability in accelerated Arctic warming (Arctic Amplification) in the spring over the satellite period to locate biases between climate models and observations.
 
-**Glacial Isostacy Physics Research Assistant**, Universtiy of Colorado Boulder, Boulder, CO
+**Geophysics Physics Research Assistant**, Universtiy of Colorado Boulder, Boulder, CO
 
-Jul 2022 – May 2023 // _Advisors: Professor Shijie Zhong, Professor Micheal Ritzwoller_
+Jul 2022 – May 2023 | _Advisors: Professor Shijie Zhong, Professor Micheal Ritzwoller_
 * Evaluated mantle viscosity misfits between ice model outputs based on ice load distributions.
 * Conducted in-depth comparison of ICE6-G and ANU ice history models based on near-field and far-field viscosity and relative sea level misfits.
 
 **Glaciology and Hydrology Research Student**, School for International Training, Reykjavík, Iceland
 
-Jun – Jul 2022 // _Advisor: Professor Sonya Ahamed_
+Jun – Jul 2022 | _Advisor: Sonya Ahamed, PhD_
 * Spent six weeks traveling around Iceland, learning about renewable energy, economics, and technology.
 * Researched the glaciology of the Vatnajökull ice cap in Iceland and how climate change will affect the local watershed.
  
-**Biocomputing Research Assistant**, University of Colorado Boulder, Boulder, CO
+**Bio-Computing Research Assistant**, University of Colorado Boulder, Boulder, CO
 
 Aug 2021 - May 2022 // _Advisor: Professor Orit Peleg_
 * Developed multiple specific functions in MATLAB to analyze bee swarm characteristics to understand bee self-assembly and mechanics.
 * Analyzed and interpreted trends of bee swarms to validate previous data and conclude new findings about self-assembly methods.
 
-**Planetary Science Instrumentation Research Science Intern**, Lockheed Martin, Palo Alto, CA
+**Planetary Science Instrumentation Research Intern**, Lockheed Martin, Palo Alto, CA
 
-May 2021 - Aug 2021 // _Advisor: Maté Adámkovics, Ph.D._
+May 2021 - Aug 2021 | _Advisor: Maté Adámkovics, PhD_
 * Wrote Python code for data manipulation of GeoCARB satellite science instrument to be used at NASA.
 * Developed solutions and implementation plan to improve the engineering drawing release process as part of the Intern Case Study Program.
 
-**Astrophysics Mission Research Assistant**, Lockheed Martin, Boulder, CO
+**Astrophysics Research Assistant**, Lockheed Martin, Boulder, CO
 
-Aug 2020 - Feb 2021 // _Advisor: Professor John Bally_
+Aug 2020 - Feb 2021 | _Advisor: Professor John Bally_
 * Designed an orbit for NASA science mission proposal surveying Paschen-alpha emission in the galactic plane over summer.
 * Focused on assisting science cases at CU Boulder for NASA proposal.
 
 **Student Technical Writer**, National Snow and Ice Data Center (NSIDC), Boulder, CO
 
-Aug 2020 - Jan 2021 // _Supervisor: Candida Dewes_
+Aug 2020 - Jan 2021 | _Supervisor: Candida Dewes_
 * Migrated metadata documents from HTML to PDF for a more effortless user experience.
 * Directed RAMP satellite web page migration project.
 * Led and notated weekly department meetings.
 
-**Electrical Systems and Integration/Test Engineer Intern**, Lockheed Martin, Littleton, CO
+**Electrical and Test Engineering Intern**, Lockheed Martin, Littleton, CO
 
-May 2020 - Jul 2020 // _Supervisor: Reinhold Huber_
+May 2020 - Jul 2020 | _Supervisor: Reinhold Huber_
 * Updated two test procedures and edited 10+ test scripts for electrical satellite testing in various environments.
 * Participated in onsite testing and electrical equipment checkouts.
 * Validated scripts for 134 separate data flow and signal tests.
 
 **Atmospheric Science Research Assistant**, National Oceanic and Atmospheric Administration (NOAA), Boulder, CO
 
-Aug 2019 - Dec 2019 // _Supervisor: Issac Vimont, Ph.D._
+Aug 2019 - Dec 2019 | _Supervisor: Issac Vimont, Ph.D._
 * Focused on electrical engineering aspects of collecting a continuous gas sample with updated technology.
 * Worked with affiliated scientists to better understand the science behind the design and the intended goal of the AirCore gas sampling project.
 
-**Systems Engineering Intern**, Lockheed Martin, Littleton, CO
+**Mechanical and Systems Engineering Intern**, Lockheed Martin, Littleton, CO
 
-Jun 2019 - Aug 2019 // _Supervisor: Anthony Sandora_
+Jun 2019 - Aug 2019 | _Supervisor: Anthony Sandora_
 * Worked daily in a high-bay to get hands-on mechanical and electrical experience with satellites.
 * Developed a new way to document needed testing data for the Geostationary Operational Environmental Satellite (GOES) series program.
 
 Service and Leadership
 ======
-* Co-Chair of WelCOM Committee for Atmospheric and Climate Science Graduate Visit Day
-* Representative for Atmospheric and Climate Science Graduate School for College of the Environment's Student Advisory Committee
-* Co-Planner for Atmospheric and Climate Science Graduate Student Distinguished Visiting Lecture
-* Co-Chair of Relations Committee for the Graduate Climate Conference (GCC) 2024
-* Co-Chair of Outreach Committee to organize field trips for K-12 visits
-* Co-Chair of Atmospheric and Climate Science Department Teaching Award Committee
+* College of the Environment Student Advisory Committee Representative
+* Graduate K-12 Outreach Committee Co-Chair
+* Department Teaching Award Committee Co-Chair 
+* Graduate Student Distinguished Visiting Lecture Co-Chair
+* Graduate Climate Conference Relations Committee Co-Chair
+* Graduate-Undergraduate Mentoring Program Mentor
+* Department WelCOM Committee for Graduate Visit Day Co-Chair 
 
-Skills
+Additional Information
 ======
-* Languages: Python, Java, Fortran, MATLAB, C++, R, Arduino, Mathematica, Julia
-* Technical: CREO, Solidworks (Certified), OnShape, STK
-* Developer Tools: Jupyter Notebooks, Git, Google Cloud Platform
+* Expertise: Polar dynamics, climate modeling, machine learning, polar seasonality, multi-decadal predictability
+* Tooling: Python, PyTorch, Tensorflow, Fortran, C, C++, Java, MATLAB
+* Technical: CREO, Solidworks (certified), Onshape, STK
