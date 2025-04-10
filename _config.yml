@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Skylar Gale"
   pronouns         : "she/her"  
-  bio              : "I am pursuing a Ph.D. in Atmospheric and Climate Science at the University of Washington, working with Professor Qiang Fu. My research uses machine learning to quantify the seasonal role of internal variability in accelerated Arctic warming, known broadly as Arctic Amplification. I am interested in research/data science careers in atmospheric-ice-snow interactions, climate modeling, and wildfires."
+  bio              : "I'm a Ph.D. student in Atmospheric and Climate Science at the University of Washington, where I use machine learning to study Arctic Amplification and the role of internal climate variability. My background blends engineering, physics, and climate science, with research spanning ice-sheet modeling, greenhouse gas instrumentation, and glacial hydrology. Outside the lab, I’m passionate about the outdoors, running, skiing, and spending time with my dogs and family."
   email            : "skylarcgale@gmail.com"
   location         : "Seattle, WA"
   employer         : "University of Washington"
@@ -37,7 +37,7 @@ author:
 
   # Academic websites
   # arxiv            : # URL
-  # googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=jVxYu3IAAAAJ&view_op=list_works&gmla=ANZ5fUNLQeWVdck5CyW5cbI9a5EdYYkdkgZkK0N4v70HtrhohTmTOMub_Zqn2dGbf45LGuasRZP55EJSbMMRlhk7"
   orcid            : "https://orcid.org/0000-0003-4503-6237"
 
 # Site Settings
@@ -224,9 +224,9 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
